@@ -1,0 +1,487 @@
+document_id,original_sentence_id,language,original_text
+CAT_001,0,CAT,"Àpats a domicili
+El servei d’àpats a domicili dona suport alimentari a aquelles persones que, per la seva situació personal, no poden preparar-se els àpats, necessiten ajuda per fer-ho o no tenen un habitatge en condicions per cuinar aliments."
+CAT_001,1,CAT,"A més, es tracta de persones que no tenen suport social o familiar suficient o que, pels seus problemes de mobilitat, no poden dirigir-se a un servei d’alimentació de la seva comunitat."
+CAT_001,2,CAT,La valoració de la situació la fan els equips professionals dels centres de serveis socials de l’Ajuntament de Barcelona.
+CAT_001,3,CAT,"El servei es concreta amb el lliurament al domicili de la persona beneficiària d’àpats equilibrats i saludables en adequades condicions de qualitat i higiene, a fi de garantir la cobertura de les seves necessitats nutricionals."
+CAT_001,4,CAT,"Per sol·licitar aquesta valoració, cal demanar cita prèvia al telèfon de Serveis Socials 900922357 i que us adreceu al Centre de Serveis Socials que us correspongui per domicili."
+CAT_002,0,CAT,"Formalitza una queixa
+Quan es pot presentar una queixa?"
+CAT_002,1,CAT,Pot presentar-se una queixa si es considera que l’Administració municipal impedeix o dificulta l’exercici legítim dels teus drets fonamentals.
+CAT_002,2,CAT,Es pot presentar una queixa després d’haver reclamat a l’òrgan o servei implicat i no haver obtingut resposta o solució.
+CAT_002,3,CAT,També quan es consideri que la resposta no té una motivació suficient o bé que s’ha comès un error o arbitrarietat en l’aplicació de les normes legals.
+CAT_002,4,CAT,Els assumptes en què pot intervenir la Sindicatura són gairebé tots els que afecten la vida diària dels ciutadans i ciutadanes i que tenen a veure amb els serveis municipals.
+CAT_002,5,CAT,L’actuació de la Sindicatura sempre és confidencial.
+CAT_002,6,CAT,"Les dades que presenta una persona quan formula una queixa són reservades, menys en els casos en què hi hagi una renúncia expressa per part del reclamant."
+CAT_002,7,CAT,"Formulari online de queixa sobre els serveis municipals de Barcelona
+El procediment d’una queixa
+La Sindicatura actua per sol·licitud de qualsevol persona física o jurídica que presenti una queixa."
+CAT_002,8,CAT,"També pot fer-ho d’ofici, quan consideri que cal emprendre alguna investigació en defensa dels drets de la ciutadania."
+CAT_002,9,CAT,"Queixa ciutadana
+Admeses a tràmit
+Arran d’una queixa, l’assessoria de la Sindicatura inicia una investigació i supervisió de l’activitat municipal."
+CAT_002,10,CAT,i rep documentació de l’òrgan competent.
+CAT_002,11,CAT,"Si convé, pot iniciar un procediment de resolució alternativa de conflictes entre la ciutadania i l’administració municipal."
+CAT_002,12,CAT,"Posteriorment, la Sindicatura emet una resolució i formula recomanacions a l’Ajuntament."
+CAT_002,13,CAT,"Finalment, la defensoria du a terme un seguiment de la implementació de les recomanacions emeses."
+CAT_002,14,CAT,"En aquesta fase, pot posar en marxa mecanismes de resolució altenativa de conflictes perquè es doni una resposta municipal al problema."
+CAT_002,15,CAT,"Assessorament tècnic i jurídic
+Quan el ciutadà o ciutadana no s’ha dirigit en primera instància a l’Ajuntament o quan la queixa no és competència de la Sindicatura, poden dur-se a terme tres accions: orientació tècnica i jurídica, gestió directa de la Sindicatura amb els òrgans competents (que pot adoptar la forma de resolució alternativa de conflictes), o derivació a l’organ públic o privat pertinent."
+CAT_002,16,CAT,"No admeses a tràmit
+El reglament de la Sindicatura estableix que no seran admeses a tràmit: queixes que no impliquen l’administració municipal, les que estiguin pendents de resolució judicial, aquelles relatives a fets coneguts fa més d’un any, les que siguin anònimes, aquelles en les quals s’adverteixi mala fe, falta de fonament o inexistència de pretensió, i quan provoquin algun perjudici als interessos legítims d’una tercera persona."
+CAT_002,17,CAT,"Actuació d’ofici
+
+Detecció d’un problema d’interès general que afecta drets fonamentals i llibertats públiques de la ciutadania."
+CAT_002,18,CAT,S’inicia una investigació i supervisió de l’actuació municipal respecte d’una problemàtica en concret.
+CAT_002,19,CAT,"Se sollicita i analitza informació municipal i, si es considera oportú, es poden dur a terme accions de resolució alternativa de conflictes."
+CAT_002,20,CAT,"Resolució final de la Sindicatura, que conclou, si s’escau, amb recomanacions a l’Ajuntament."
+CAT_002,21,CAT,"Posteriorment, la defensoria duu un seguiment de la implementació de les recomanacions emeses per garantir la millora de l’actuació municipal."
+CAT_007,0,CAT,"Presència al territori
+La Sindicatura, a peu de carrer
+La millor manera de descobrir què passa a Barcelona és caminant-hi de la mà de les persones que més saben de cada racó de la ciutat: el veïnat."
+CAT_007,1,CAT,"En aquest projecte, l’equip de la Sindicatura dedica tot un dia a conèixer, a peu de carrer, les principals problemàtiques i neguits de cadascun dels 73 barris de la ciutat."
+CAT_007,2,CAT,"La Sindicatura, a prop teu
+El diàleg amb la ciutadania fa que les solucions proposades siguin més efectives i responguin millor a les necessitats i experiències de les persones."
+CAT_007,3,CAT,"Cada mes, l’equip de la Sindicatura conversa amb el veïnat de la ciutat sobre allò que els preocupa."
+CAT_007,4,CAT,"Sindicatura itinerant
+La Sindicatura no és una ubicació estàtica, sinó que està present al territori."
+CAT_007,5,CAT,"És una institució en moviment que, de manera periòdica, es trasllada a un equipament de proximitat amb l’objectiu de recollir les queixes de la ciutadania, sense necessitat que aquesta es desplaci a la nostra seu."
+CAT_007,6,CAT,"La Sindicatura, als instituts
+La Sindicatura de Greuges de Barcelona es desplaça als instituts de la ciutat per debatre amb l’alumnat sobre quines queixes tenen; com millorarien el seu barri; si creuen que participen en les decisions de ciutat; si consideren que se’ls té en compte, etc.
+Com tots sabem que les adolescents i joves tenen propostes i solucions per a tot, una sessió amb el síndic de greuges de Barcelona serà la millor opció per escoltar-les!"
+CAT_009,0,CAT,"Quant a aquest procés
+Els pressupostos participatius són una eina de democràcia directa."
+CAT_009,1,CAT,"La ciutadania proposa i escull projectes d’inversió per al districte, que es portaran a terme amb el pressupost municipal assignat al procés."
+CAT_009,2,CAT,L’Ajuntament de Barcelona porta a terme el procés de pressupostos participatius en els 10 districtes.
+CAT_009,3,CAT,Es destinen 30 milions d’euros a projectes d’inversió proposats i escollits directament pels veïns i veïnes.
+CAT_009,4,CAT,"Aquesta quantitat s'ha distribuït entre els districtes tenint en compte criteris d’equitat territorials, demogràfics i socioeconòmics."
+CAT_009,5,CAT,"Aquest procés té la voluntat de fomentar el debat al voltant de la realitat dels barris i plantejar projectes que contribueixin a la millora de la vida ciutadana. Cercant aquest objectiu, s’impulsen diversos espais de participació, fent especial èmfasi en la recerca d’una participació diversa, que reculli totes les veus, totes les reflexions i totes les propostes de projectes plantejats per la ciutadania i el teixit associatiu de la ciutat."
+CAT_009,6,CAT,"Projectes objecte del procés de pressupostos participatius
+
+Són projectes d’inversió tot allò que l’Ajuntament pot construir o adquirir."
+CAT_009,7,CAT,"Per tant, es consideren inversions que es poden finançar amb els diners dels pressupostos participatius les següents tipologies de propostes:
+•	Millora de l’espai públic(Obrir en una pestanya nova): transformació de carrers, instal·lació d’elements urbans, creació o condicionament de zones verdes, construcció o millora d'instal·lacions."
+CAT_009,8,CAT,"Ampliació de les zones per a vianants, millora dels entorns escolars, elements de mitigació de la calor, incorporació de verd urbà, àrees de joc infantil, pistes i espais esportiu, àrees d’esbarjo per a gossos, etc.
+•	Millora d’equipaments municipals(Obrir en una pestanya nova): educatius, esportius, de proximitat, culturals, i per col·lectius específics: Adequació d’espais a nous usos, reforma per a l’accessibilitat, rehabilitació, instal·lació de sistemes d’eficiència energètica, millora de patis i terrasses, renovació del mobiliari, etc.
+•	Adquisició i rehabilitació de béns immobles per a ús públic.Compra i rehabilitació d’habitatges, de locals o edificis per a ús públic, i de solars o terrenys per a l’ampliació d’equipaments o espai públic."
+CAT_009,9,CAT,Les propostes han de complir amb els requisits tècnics establerts(Obrir en una pestanya nova) en el decret de convocatòria del procés participatiu(Link extern).
+CAT_009,10,CAT,"Les fases del procés
+El procés de pressupostos participatius es desenvolupa en 6 fases:
+•	FASE 1, debat i presentació de propostes 
+•	FASE 2, valoració tècnica de les propostes
+Consulta les respostes a les propostes presentades(Obrir en una pestanya nova)."
+CAT_009,11,CAT,"•	FASE 3, recollida de suports o priorització a les propostes
+•	FASE 4, concreció de les propostes
+•	FASE 5, votació final dels projectes 
+•	FASE 6, avaluació i seguiment de l’execució dels projectes seleccionats
+Més informació sobre les fases del procés(Obrir en una pestanya nova) de Pressupostos participatius."
+CAT_009,12,CAT,Tens dubtes?
+CAT_014,0,CAT,"Registre electrònic
+Contingut
+El Registre General és l’instrument de l’Ajuntament de Barcelona per controlar el flux de comunicació entre aquesta administració, la ciutadania i altres organitzacions, i dona fe de si s’ha produït o no aquesta comunicació."
+CAT_014,1,CAT,La seva finalitat és preservar els drets de la ciutadania i també els de l’Administració.
+CAT_014,2,CAT,"Contingut
+Instància genèrica per internet
+Per cursar-la, cal identificar-se amb certificat digital (comproveu els mètodes d'identificació i els requisits tècnics)
+Abans però...
+Cal comprovar que la petició no correspon a un tràmit electrònic específic de la relació de tràmits de l’Ajuntament de Barcelona, perquè, en aquest cas, podria rebutjar-se d’acord amb l’art."
+CAT_014,3,CAT,"66.6 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques."
+CAT_014,4,CAT,Verifiqueu que no hi ha un tràmit telemàtic específic al llistat alfabètic de tràmits realitzables electrònicament.
+CAT_014,5,CAT,"Una vegada s’ha enviat la instància, el registre emetrà automàticament un justificant de la recepció i deixarà constància de les dades de la petició, inclòs el número d’assentament."
+CAT_014,6,CAT,"Contingut
+Accés a la instància telemàtica genèrica
+Accés a les sol·licituds telemàtiques específiques
+Còmput de terminis
+Les sol·licituds, els escrits o les comunicacions relatius a tràmits administratius es poden registrar tots els dies de l’any, durant les 24 hores."
+CAT_014,7,CAT,"A efectes de còmputs de terminis, la recepció de documents en un dia inhàbil es considera efectuada el primer dia hàbil següent."
+CAT_014,8,CAT,La data i l’hora per la qual es regeix el registre és l’establerta per la seu electrònica de l’Ajuntament de Barcelona.
+CAT_014,9,CAT,"Quan, per raons tècniques, es pugui preveure que el registre no estarà operatiu, s’avisarà les persones usuàries des de la seu electrònica amb la màxima antelació possible i mentre duri aquesta situació."
+CAT_014,10,CAT,"Documents adjunts
+Si cal adjuntar documents, han d’estar en algun dels formats admesos (PDF, JPG o TIFF) i tenir una mida limitada en funció del tràmit específic."
+CAT_014,11,CAT,"En el cas de la instància telemàtica genèrica, hi ha un límit de sis documents annexos i una mida màxima de 5 Mb en total; quan els documents sobrepassen la mida màxima i es vol cursar igualment la sol·licitud, el tràmit de sol·licitud s’acaba sense documents adjunts."
+CAT_018,0,CAT,Què és el Banc del Moviment?
+CAT_018,1,CAT,El Banc del Moviment és un servei municipal de la Xarxa Solidària de Productes de Suport de Barcelona.
+CAT_018,2,CAT,Ofereix productes per facilitar la mobilitat a qualsevol persona de Barcelona que tingui discapacitat o dificultat de moviment.
+CAT_018,3,CAT,"Alguns dels productes que s’ofereixen són:
+•	Crosses
+•	Cadires de rodes
+•	Llits articulats
+•	Caminadors
+També s’ofereixen productes tecnològics de suport, com dispositius per a l’ordinador o joguines adaptades a qualsevol tipus de discapacitat."
+CAT_018,4,CAT,"Els productes de suport per a la mobilitat i els productes tecnològics del BdM també complementen els productes que facilita el Departament de la Generalitat a través del Programa d’Ajudes d’Atenció Socials per a Persones amb Discapacitat (PUA), promovent d’aquesta manera l’accés a les persones amb major vulnerabilitat social."
+CAT_018,5,CAT,Com funciona el Banc del Moviment?
+CAT_018,6,CAT,El Banc del Moviment funciona gràcies a la solidaritat de moltes persones i entitats que ens donen els productes de suport per a què els puguin fer servir les persones que ho demanin.
+CAT_018,7,CAT,"Un cop ens els donen, un equip de professionals els revisen, els reparen i acompanyen a les persones que els sol·liciten per ensenyar-los com utilitzar-los."
+CAT_018,8,CAT,"El Banc de Moviment també compra alguns productes de suport nous, especialment per donar resposta a les demandes més freqüents."
+CAT_018,9,CAT,"A partir del 9 de maig de 2024, el Banc del Moviment activa un formulari per permetre als professionals de serveis socials municipals sol·licitar un descompte en el preu públic dels productes de suport cedits a les persones usuàries."
+CAT_018,10,CAT,"Aquest formulari facilita l'accés als productes de suport cedits des del Banc del Moviment, Xarxa Solidària de Productes de Suport."
+CAT_018,11,CAT,"Abans d'enviar el formulari per correu electrònic, és necessari trucar per telèfon per validar la disponibilitat del producte i conèixer els passos a seguir per a la cessió del material."
+CAT_018,12,CAT,"Si també cal reduir la fiança, es concretarà en aquesta trucada."
+CAT_018,13,CAT,El Banc del moviment és un servei municipal impulsat per l’Institut Municipal de Persones amb Discapacitat de l’Ajuntament de Barcelona.
+CAT_024,0,CAT,"Dinàmiques i reptes del turisme urbà
+Turisme, el perill de morir d'èxit
+La percepció que tenen els residents sobre l’expansió del turisme urbà, que comporta una  dissolució de la frontera entre espais turístics i espais locals, empitjora cada cop més."
+CAT_024,1,CAT,"Com a resultat, ciutats com Amsterdam i Copenhaguen han pres mesures per evitar els seus efectes negatius."
+CAT_024,2,CAT,"Algunes estan tenint més èxit que d’altres, però caldrà esperar per comprovar el seu efecte real."
+CAT_024,3,CAT,"Les ciutats sempre han tingut un paper important en el turisme, però l’aparició d’un sector específic de “turisme urbà” és relativament recent."
+CAT_024,4,CAT,"Al sud d’Europa, per exemple, els processos d’urbanització turística dels anys seixanta i setanta es van centrar en destinacions turístiques de costa, amb una població resident relativament petita."
+CAT_024,5,CAT,"L’expansió del turisme va rebre l’empenta d’un nou desenvolupament urbanístic, que incloïa la construcció d’hotels i blocs d’apartaments a prop del mar."
+CAT_024,6,CAT,[1] La majoria dels debats al voltant del progrés turístic en aquella època se centraven en els efectes mediambientals de la urbanització creixent.
+CAT_024,7,CAT,"Al nord d’Europa, les grans ciutats van començar a ser reconegudes com a centres de turisme cultural a la dècada dels vuitanta, quan les pressions econòmiques van animar les urbs en procés de desindustrialització a passar de la indústria manufacturera als serveis."
+CAT_024,8,CAT,"També van guanyar cada vegada més importància com a hubs del turisme de negocis, amb l’obertura de molts centres de conferències i exposicions a les dècades dels anys vuitanta i noranta."
+CAT_024,9,CAT,"Així doncs, amb el canvi de mil·lenni, a moltes zones urbanes d’Europa ja s’havia establert un sector turístic reconeixible."
+CAT_024,10,CAT,"Tot i això, el desenvolupament de les activitats turístiques estava relativament separat de la vida quotidiana de la ciutat i els seus residents."
+CAT_024,11,CAT,Els enclavaments d’allotjaments turístics se solien agrupar al voltant dels principals hubs de transport o a prop dels districtes de lleure del centre de les ciutats.
+CAT_024,12,CAT,Aquesta situació va ser descrita per Gregory John Ashworth i John E. Tunbridge en el seu model de “ciutat turisticohistòrica”.
+CAT_024,13,CAT,"Amb l’expansió del turisme urbà, però, les divisions entre espais turístics i espais locals van començar a dissoldre’s."
+CAT_024,14,CAT,L’estudi City Tourism & Culture.
+CAT_024,15,CAT,"The european experience sobre turisme urbà i cultura, elaborat el 2005 per la Comissió Europea de Viatges / OMT, indicava un creixement significatiu d’aquest tipus de turisme, amb un augment del 38% en les pernoctacions a ciutats europees entre el 1993 i el 2000."
+CAT_024,16,CAT,"Un fenomen que va atreure l’atenció dels responsables de les polítiques urbanes, delerosos d’obtenir el màxim rendiment dels turistes culturals d’alt poder adquisitiu."
+CAT_024,17,CAT,"Algunes ciutats, com Barcelona, també van aprofitar el desenvolupament turístic impulsat per grans celebracions, com els Jocs Olímpics del 1992 i l’Any Gaudí del 2002, per atreure visitants i fer de suport a iniciatives de placemaking."
+CAT_024,18,CAT,"[2] L’èxit d’aquestes accions va animar la capital catalana a organitzar, el 2004, el Fòrum Universal de les Cultures, una trobada sobre el diàleg cultural promoguda per la UNESCO."
+CAT_024,19,CAT,"Al principi, el turisme era vist amb bons ulls tant pels responsables polítics com pels residents."
+CAT_024,20,CAT,"El 2004, però, es van experimentar els primers indicis dels canvis que venien."
+CAT_024,21,CAT,"El Fòrum va generar un sentiment negatiu entre molts residents, que es van sentir exclosos per les elevades tarifes d’entrada, els preus inflats del menjar i el patrocini empresarial."
+CAT_024,22,CAT,Va ser una alerta prematura de les fissures del “model Barcelona” postolímpic.
+CAT_024,23,CAT,"Un canvi de percepció a través dels anys
+La preocupació creixent dels responsables polítics va portar Jordi Portabella, aleshores regidor de Turisme, a encarregar, a finals del 2004, un estudi sobre el posicionament dels residents en relació amb el turisme."
+CAT_024,24,CAT,"La recerca, però, va demostrar que els barcelonins continuaven sent-ne molt partidaris, en concret, del turisme cultural: més del 90% eren favorables a un creixement més alt del turisme, i el 91% estaven d’acord a desenvolupar el turisme cultural."
+CAT_024,25,CAT,"Tot i que els resultats inicials no encaixaven amb el que els polítics havien previst, es va decidir continuar supervisant el posicionament dels residents, i la recerca en curs es va incorporar a l’Observatori del Turisme a Barcelona."
+CAT_024,26,CAT,"L’estudi proporciona una imatge longitudinal única de la relació entre el turisme i la ciutat, i mostra com han canviat les opinions a mesura que el turisme urbà ha anat creixent."
+CAT_024,27,CAT,"Si el 2005 i el 2006, al voltant del 70% dels residents van donar suport a la idea que Barcelona atragués més turistes, aquesta xifra va caure bruscament fins al voltant del 50% el 2007, la qual cosa reflectia un malestar en augment respecte al ritme de creixement del turisme."
+CAT_024,28,CAT,"Entre el 2007 i el 2012 va tornar a augmentar, probablement per la influència de la crisi econòmica d’aquells anys."
+CAT_024,29,CAT,"Des d’aleshores, el suport al turisme no ha deixat de disminuir, acompanyat d’un percentatge creixent d’habitants que creuen que Barcelona ha tocat sostre."
+CAT_024,30,CAT,"El punt d’inflexió es va produir el 2016, quan els posicionaments negatius envers el turisme van passar a ser majoritaris."
+CAT_024,31,CAT,"Des de la pandèmia, el sentiment antiturístic s’ha mantingut alt: més del 60% dels residents manifesten que la ciutat ha arribat al límit, un nivell comparable al del 2019."
+CAT_024,32,CAT,El canvi de posicionaments també ha afectat els comportaments.
+CAT_024,33,CAT,"El 2011 al voltant del 60% de la població manifestava, en l’enquesta, que havia tingut contacte regular amb turistes a la ciutat."
+CAT_024,34,CAT,"Aquesta xifra va augmentar al 70% el 2014, a mesura que creixia el nombre de turistes."
+CAT_024,35,CAT,"A partir del 2015, però, el contacte amb els turistes va disminuir, la qual cosa suggereix que la població local els evitava activament, i defugia les zones turístiques."
+CAT_024,36,CAT,Aquesta anàlisi mostra que la preocupació pel creixement del turisme urbà és anterior a l’arribada d’Airbnb a Europa el 2011.
+CAT_024,37,CAT,"Tot i això, la plataforma ha arribat a representar molts dels reptes associats a aquesta activitat."
+CAT_024,38,CAT,"Ha estat pionera en un nou model, que integra els turistes en el teixit mateix de la ciutat: ja no estan confinats en enclavaments amb hotels i instal•lacions orientades al turisme, sinó que ara poden penetrar als barris residencials."
+CAT_024,39,CAT,Aquest canvi va transformar l’antic model de “ciutat turisticohistòrica” dels anys noranta en el concepte modern de “viure com els locals”.
+CAT_024,40,CAT,"Els visitants s’han llançat en massa a experimentar la vida local en ciutats com Barcelona, Lisboa i Berlín, gràcies, en part, a Airbnb i a les aerolínies de baix cost, com EasyJet i Vueling."
+CAT_024,41,CAT,"Consegüentment, el cost d’arribar a ciutats populars i allotjar-s’hi s’ha reduït dràsticament, i ha donat pas al que s’ha anomenat “nou turisme urbà”."
+CAT_024,42,CAT,"[3]
+El 2004, Barcelona va rebre 4,4 milions de turistes."
+CAT_024,43,CAT,"El 2019, les arribades havien crescut fins a 20 milions."
+CAT_024,44,CAT,"Comparteix aquest fragment
+El nou turisme urbà prospera en barris cool, que ofereixen una barreja atractiva de bars, restaurants i cultura local."
+CAT_024,45,CAT,L’enquesta de Time Out sobre els barris més cool del món (World’s Coolest Neighbourhoods) segueix aquesta tendència.
+CAT_024,46,CAT,"El 2024, els resultats situen Notre-Dame-du-Mont, a Marsella; Mers Sultan, a Casablanca, i Pererenan, a Bali, com els tres barris més de moda del món."
+CAT_024,47,CAT,"Barcelona ha aparegut sis vegades a la classificació els últims set anys, amb barris com Gràcia, el Clot i el Poblenou, zones que abans no registraven un flux turístic significatiu."
+CAT_024,48,CAT,L’afluència de visitants ha augmentat la pressió sobre l’espai urbà.
+CAT_024,49,CAT,"El 2004, Barcelona, amb una població resident d’1,6 milions, va rebre 4,4 milions de turistes."
+CAT_024,50,CAT,"El 2019, les arribades havien crescut fins a 20 milions, per a una població d’1,7 milions, i això es va traduir en un augment de la ràtio d’arribada de turistes per resident de 2,75 a 11,8, és a dir, més de quatre vegades superior."
+CAT_024,51,CAT,"Les xifres van caure durant la pandèmia, però després, amb 15,6 milions el 2023,[4] la ràtio continuava sent de 9,2 turistes per cada resident."
+CAT_024,52,CAT,Aquest increment no es pot atribuir únicament a Airbnb; també reflecteix el creixement de l’allotjament en hotels i de les places en línies aèries de baix cost.
+CAT_024,53,CAT,"Dit d’una altra manera, és el resultat d’un model turístic basat a augmentar el nombre de visitants, en lloc de maximitzar la despesa de cada turista o centrar-se en grups de visitants concrets."
+CAT_024,54,CAT,"Algunes mesures integrals
+En els últims temps, aquest tipus de desenvolupament turístic s’ha convertit en el blanc de les crítiques en altres ciutats."
+CAT_024,55,CAT,"Una sèrie de protestes a Tenerife, Alacant o Eivissa, entre d’altres, han reclamat un canvi en el model turístic, al qual alguns residents culpen de problemes com l’augment dels lloguers, la pujada del cost de la vida, la decadència de les comunitats i la degradació del medi ambient."
+CAT_024,56,CAT,"Com a resposta, algunes ciutats han introduït mesures per fer front a aquests nous reptes."
+CAT_024,57,CAT,Entre les més integrals hi ha les aplicades a Amsterdam.
+CAT_024,58,CAT,"Les mesures per controlar el turisme a aquesta ciutat neerlandesa es van introduir a través de la política de “turisme en equilibri”, desenvolupada el 2019 després que 30.000 residents demanessin un nou plantejament de la política turística."
+CAT_024,59,CAT,"Actualment, la ciutat imposa una taxa del 12,5% del preu dels allotjaments turístics, la més alta d’Europa."
+CAT_024,60,CAT,Les accions reguladores també han inclòs restriccions a Airbnb: els anuncis de pisos es van reduir de 16.648 el març del 2021 a menys de 3.000 l’octubre del mateix any.
+CAT_024,61,CAT,També es va prohibir que s’obrissin hotels nous.
+CAT_024,62,CAT,"A més, la ciutat ha implantat la prohibició de fumar porros i beure alcohol en espais públics de zones cèntriques, i ha il·legalitzat les beer bikes [bicicletes grupals amb un bar incorporat per beure cervesa mentre es pedala] i els tours turístics amb grups grans."
+CAT_024,63,CAT,Amsterdam també ha intentat distribuir el turisme de manera més uniforme per la ciutat animant els visitants a explorar nous barris i atraccions regionals.
+CAT_024,64,CAT,"Els esforços locals també inclouen campanyes de desmàrqueting adreçades a determinats grups —sobretot, als joves britànics—, que utilitzen les xarxes socials per dissuadir de comportaments indesitjables."
+CAT_024,65,CAT,Un informe recent sobre l’aplicació de la taxa turística a Amsterdam conclou que l’impost hauria de ser tres vegades superior perquè tingués un impacte real en el nombre de visitants.
+CAT_024,66,CAT,"Comparteix aquest fragment
+Tot i això, encara no és clar el grau d’impacte que les mesures adoptades a Amsterdam o a altres ciutats poden estar tenint, i és que, malgrat la pujada de les taxes turístiques, els visitants continuen arribant."
+CAT_024,67,CAT,"El 2023, aquesta ciutat va registrar més de 22 milions de pernoctacions, malgrat l’acord de l’Ajuntament de restringir aquesta xifra a 20 milions."
+CAT_024,68,CAT,Un informe recent sobre l’aplicació de la taxa turística conclou que l’impost hauria de ser tres vegades superior perquè tingués un impacte real en el nombre de visitants.
+CAT_024,69,CAT,"Mentrestant, l’oferta d’anuncis d’Airbnb ha tornat a pujar i ha arribat a gairebé 10.000 el 2024."
+CAT_024,70,CAT,"Tot i que la xifra és inferior als nivells registrats abans dels nous controls, gradualment està tornant a les quantitats anteriors."
+CAT_024,71,CAT,"També es continuen obrint nous hotels, ja que algunes llicències de desenvolupament es van concedir abans que s’introduís l’stop als hotels, l’abril del 2024."
+CAT_024,72,CAT,"Segons l’expert en turisme Stephen Hodes, els intents d’estendre l’afluència de visitants a zones fora d’Amsterdam tampoc no han tingut gaire efecte."
+CAT_024,73,CAT,Hodes argumenta que els visitants que es queden als afores de la ciutat no fan sinó alliberar espai al centre per a més turistes.
+CAT_024,74,CAT,"A més, els que s’allotgen fora de la ciutat solen desplaçar-se diàriament, cosa que augmenta la pressió sobre els serveis de transport."
+CAT_024,75,CAT,"Tenint en compte que sembla que els controls econòmics, normatius i espacials han tingut fins ara poc impacte a Amsterdam, potser caldrà adoptar plantejaments més creatius."
+CAT_024,76,CAT,"En aquest sentit, Copenhaguen ha destacat entre altres ciutats per prendre una sèrie de mesures basades en la persuasió, més que no pas en els controls directes."
+CAT_024,77,CAT,"El 2021, la ciutat va introduir l’estratègia Tourism for Good."
+CAT_024,78,CAT,"Es tracta d’un plantejament més ampli del desenvolupament turístic, amb objectius de sostenibilitat basats en tres pilars: el turisme ha d’accelerar la transició ecològica, crear trobades enriquidores i generar més valor socioeconòmic per a més persones."
+CAT_024,79,CAT,"Com que el control no va començar fins al 2022, encara és aviat per saber si l’estratègia tindrà èxit."
+CAT_024,80,CAT,"Tot i això, Wonderful Copenhagen, l’organització de màrqueting turístic d’aquesta ciutat, està fent esforços perquè el sector del turisme s’hi sumi i ha creat un “laboratori de llegat”, l’objectiu del qual és fomentar que els esdeveniments de la ciutat tinguin un impacte més positiu en el territori a llarg termini."
+CAT_024,81,CAT,Caldrà esperar per veure si els esforços de Copenhaguen influeixen en el volum o la qualitat del seu turisme urbà.
+CAT_024,82,CAT,"El seguiment de les tendències en aquest terreny ha estat especialment difícil a causa de l’impacte de la pandèmia de la covid-19, que va reduir dràsticament aquests fluxos turístics."
+CAT_024,83,CAT,"Tot i això, les primeres dades turístiques per al 2024 suggereixen que la majoria de les ciutats ja han recuperat o superat els nivells de visitants del 2019."
+CAT_024,84,CAT,"L’augment mitjà del nombre de visitants de les ciutats que nodreixen la base de dades TourMIS[5] ha estat del 5,5% durant els primers vuit mesos del 2024."
+CAT_024,85,CAT,"De la mateixa manera, el nombre de visitants a les atraccions turístiques de les ciutats europees va augmentar gairebé el 14% de mitjana el 2023."
+CAT_024,86,CAT,"Aquestes xifres semblen indicar que les urbs continuen experimentant els efectes del “turisme de venjança” a conseqüència de la covid, amb consumidors delerosos d’aprofitar les oportunitats per viatjar."
+CAT_024,87,CAT,"Les dades suggereixen que el turisme urbà continuarà creixent i, així mateix, també creixeran les pressions que hi van associades, que probablement es veuran exacerbades per l’augment de la població resident a moltes ciutats."
+CAT_024,88,CAT,"En el futur, els planificadors hauran d’idear solucions encara més creatives per fer front a reptes inevitables."
+CAT_048,0,CAT,"La ciutat solidària
+Les desigualtats econòmiques i socials no deixen de créixer tant a escala global com local."
+CAT_048,1,CAT,"Per revertir aquesta situació, han sorgit a Barcelona un seguit d’iniciatives que aspiren a la justícia global, on individus, comunitats, identitats, generacions, ètnies i organitzacions convisquin en pau, optin als mateixos drets i tinguin les necessitats bàsiques cobertes."
+CAT_048,2,CAT,Per aquest objectiu treballen tant els ens públics com ciutadans enquadrats en ONG.
+CAT_048,3,CAT,"Alt nivell d’execució
+La inversió municipal en cooperació internacional manté els últims anys un nivell alt d’execució, per sobre del 90%, i es canalitza majoritàriament a través de la convocatòria anual de subvencions per a ONG i entitats."
+CAT_048,4,CAT,Totes les iniciatives s’emmarquen en eixos i objectius establerts al Pla Director de Cooperació per a la Justícia Global.
+CAT_048,5,CAT,"Amistat amb Ucraïna
+Arran de la invasió russa del febrer del 2022, Barcelona va començar a ajudar els serveis municipals de la capital ucraïnesa, Kíïv."
+CAT_048,6,CAT,"Primer es va gestionar la donació de vehicles de bombers, generadors elèctrics i material sanitari i per al rescat de persones, i des de l’octubre següent es va establir un pont humanitari estable amb la firma d’un acord de col·laboració i amistat entre les dues ciutats."
+CAT_048,7,CAT,"Les destinacions prioritàries
+El cinquè pla quadriennal de cooperació internacional canalitza els recursos de l’Ajuntament de Barcelona cap a quatre àmbits de la justícia global i cinc eixos estratègics al voltant dels quals s’estructuren els programes de cooperació, que en gran part s’executen en aliança amb altres administracions i entitats."
+CAT_048,8,CAT,"Les zones geogràfiques prioritàries són la Mediterrània i el Pròxim Orient, l’Àfrica al sud del Sàhara, Mèxic, l’Amèrica Central i el Carib, l’Amèrica del Sud i, en general, les zones en conflicte."
+CAT_048,9,CAT,"Actuacions al Sud i a casa
+Els tres primers eixos estratègics despleguen actuacions principalment en països del Sud, mentre que els altres dos incorporen accions locals (Barcelona, Catalunya, Estat espanyol i Unió Europea)."
+CAT_048,10,CAT,"Tots poden incloure actuacions en processos transnacionals, regionals o globals, i poden perseguir una o més dimensions de la justícia global (econòmica, social, de gènere o ambiental)."
+CAT_048,11,CAT,"Treballant des de la base
+El paper de les ONG de cooperació i desenvolupament és essencial per al seu coneixement del terreny, a més de les seves relacions, agilitat i experiència."
+CAT_048,12,CAT,"En paral·lel, també hi treballen cooperatives, sindicats, universitats, centres de recerca, empreses i altres agents."
+CAT_048,13,CAT,"Per una Barcelona inclusiva
+Les polítiques públiques i el teixit social conflueixen en l’acció per la justícia social en un fòrum originat el 2005, l’Acord Ciutadà per una Barcelona Inclusiva, del qual formen part 859 entitats que treballen en àmbits com les persones amb discapacitat, sense llar, aturades, drogodependents o immigrades, dones, famílies, etc."
+CAT_048,14,CAT,"La realitat del sensellarisme
+A Barcelona hi ha, com a mínim, 4.838 persones sense llar, segons les últimes estimacions d’Arrels: 1.384 persones dormen al carrer, 2.803 s’allotgen als recursos públics i privats que existeixen a la ciutat i 605 més s’estan en assentaments informals, és a dir, en solars i locals en desús."
+CAT_048,15,CAT,I la falta d’habitatge només és una de les emergències socials que cal atendre.
+CAT_053,0,CAT,"Subvencions de l'Ajuntament de Barcelona d'activitats i serveis de districte i de ciutat
+Inicia el tràmit
+Mètodes d'identificació admesos
+Aquest tràmit permet sol·licitar subvencions a les persones i entitats que duen a terme activitats i serveis sense ànim de lucre al municipi de Barcelona, o fora d’aquest si contribueixen a la promoció exterior de la ciutat."
+CAT_053,1,CAT,"També permet descarregar el formulari de la descripció del projecte i adjuntar documents complementaris, com ara la justificació de despeses, reformulacions i altres comunicacions, tant de la convocatòria actual com la del 2024."
+CAT_053,2,CAT,Podeu obtenir més informació sobre les bases i els àmbits temàtics subvencionables al web de la convocatòria general.
+CAT_053,3,CAT,"Tramit_Page.Description.dates
+•	Presentació de sol·licituds: del 9 al 29 de gener de 2025, ambdós inclosos."
+CAT_053,4,CAT,•	Presentació de la justificació: màxim de dos mesos des de la finalització del projecte subvencionat.
+CAT_053,5,CAT,"Tramit_Page.Description.price
+Per regla general, la subvenció no cobreix més del 50 % del cost total de les activitats o serveis."
+CAT_053,6,CAT,Consulteu l’import subvencionable a l’apartat “Aplicació pressupostària i imports” de la convocatòria.
+CAT_053,7,CAT,Aquest tràmit és gratuït.
+CAT_053,8,CAT,"Tramit_Page.Description.important_information
+•	Les persones físiques i les entitats estan obligades a fer el tràmit en línia."
+CAT_053,9,CAT,•	Obtingueu més informació sobre els recursos i materials de suport per a les subvencions municipals.
+CAT_053,10,CAT,"Mètodes d'identificació admesos
+Aquest tràmit admet els següents sistemes d'identificació i signatura electrònica:
+•	idCAT Mòbil i Cl@ve (sistemes basats en l'enviament de contrasenyes d'un sol ús al telèfon mòbil)."
+CAT_053,11,CAT,•DNI electrònic.
+CAT_053,12,CAT,•idCAT Certificat i altres certificats digitals vàlids per relacionar-se amb les administracions públiques.
+CAT_053,13,CAT,Podeu consultar-los al cercador de prestadors de serveis electrònics de confiança qualificats a l'Estat espanyol.
+CAT_053,14,CAT,"Per a més informació, consulteu aquest enllaç."
+CAT_053,15,CAT,Com es fa el tràmit?
+CAT_053,16,CAT,"Seleccioneu una opció:
+Descripció del projecte: podeu escollir entre descarregar-vos i emplenar la plantilla de descripció del projecte (document bàsic 2) o elaborar un document."
+CAT_053,17,CAT,"Si opteu per redactar el vostre propi document de descripció del projecte trobareu una ""Guia"" on es detallen tots els punts necessaris per a la seva correcta elaboració."
+CAT_053,18,CAT,Sol·licitud d’ajudes i subvencions: us permetrà tramitar la sol·licitud de subvenció dins del termini de presentació de sol·licituds de la convocatòria.
+CAT_053,19,CAT,Annexió de documents a sol·licituds registrades: us permetrà annexar documentació que complementi una sol·licitud ja presentada per registre telemàtic.
+CAT_053,20,CAT,També podeu presentar els justificants de la despesa efectuada de cada projecte presentat.
+CAT_053,21,CAT,Empleneu el formulari.
+CAT_053,22,CAT,"Annexeu el document de descripció del projecte (document bàsic 2), si demaneu la sol·licitud de subvenció, o la documentació complementària, en cas d'annexió de documents a sol·licituds ja enregistrades."
+CAT_053,23,CAT,Confirmeu-ne les dades.
+CAT_053,24,CAT,Presenteu la sol·licitud al registre telemàtic.
+CAT_053,25,CAT,Què passa després de fer el tràmit?
+CAT_053,26,CAT,"Un cop fet el tràmit
+•	Us recomanem desar el justificant en PDF o imprimir-lo."
+CAT_053,27,CAT,•	L’Ajuntament revisarà els documents i publicarà la resolució provisional i els documents que cal presentar.
+CAT_053,28,CAT,"•	Si heu de presentar algun document o fer al·legacions, disposareu de 10 dies per fer-ho a través de l’opció “Annexió de documents a sol·licituds ja registrades”."
+CAT_053,29,CAT,•	L’Ajuntament revisarà els documents i les al·legacions i publicarà la resolució definitiva.
+CAT_053,30,CAT,Quan rebreu resposta de l'ajuntament?
+CAT_053,31,CAT,El termini màxim per rebre una resposta és de 6 mesos des que finalitza el període de sol·licitud.
+CAT_053,32,CAT,"En cas de no rebre cap resposta en aquest període, s'entén que la vostra sol·licitud no ha estat aprovada i no rebreu la subvenció."
+CAT_060,0,CAT,"Impost sobre la renda
+Image
+Barcelona és un gran lloc per viure, però aquí també hi ha impostos, fins i tot si no tens ingressos!"
+CAT_060,1,CAT,"Encara que a ningú no li agradi pagar-los, són necessaris i inevitables."
+CAT_060,2,CAT,El sistema tributari espanyol és complex.
+CAT_060,3,CAT,"Per això en aquesta secció trobaràs informació bàsica sobre els principals tributs que afecten les persones físiques (individus), amb un focus especial en les persones d’origen estranger que es desplacen a viure a la nostra ciutat."
+CAT_060,4,CAT,"Per a assessorament fiscal o jurídic, o per resoldre qüestions concretes, et recomanem que et posis en contacte amb especialistes."
+CAT_060,5,CAT,"A Espanya, els rendiments que obtenen les persones físiques queden subjectes a tributació en els impostos següents:
+•	IRPF per als residents fiscals a Espanya."
+CAT_060,6,CAT,•	IRNR per als no residents que obtinguin rendes a Espanya.
+CAT_060,7,CAT,"Tingues en compte que si reps una donació o herència, l’import no tributa per cap d’aquests impostos, sinó per l’impost sobre successions i donacions (IDS), en el seu cas."
+CAT_060,8,CAT,"A més, si ets un treballador desplaçat a territori espanyol, també és interessant que coneguis la popularment anomenada Llei Beckham."
+CAT_060,9,CAT,També has de saber que hi ha un impost que es paga fins i tot si no tens ingressos i vius dels teus estalvis.
+CAT_060,10,CAT,"És l’impost sobre el patrimoni (IP), que s’explica més endavant."
+CAT_060,11,CAT,"Una altra qüestió important és que, en determinades circumstàncies, és obligatori presentar una declaració informativa sobre el patrimoni que posseeixes fora d’Espanya, a través del Model 720 per béns i drets situats a l’estranger i el Model 721 per criptomonedes."
+CAT_060,12,CAT,"Encara que només té validesa informativa i no pagues tribut, si no fas la declaració, pots tenir sancions econòmiques."
+CAT_060,13,CAT,"Impost sobre la renda de les persones físiques (IRPF)
+L’IRPF és un tribut que grava la renda de les persones físiques residents (en termes fiscals) a Espanya d’acord amb les seves circumstàncies personals i familiars."
+CAT_060,14,CAT,La declaració pot presentar-se tant de forma individual com conjunta.
+CAT_060,15,CAT,"Aquesta última opció serà possible per a:
+•	Les persones casades, siguin sense fills/es o amb fills/es (menors d'edat o majors incapacitats judicialment)."
+CAT_060,16,CAT,•	Les persones separades legalment i les parelles de fet amb fills/es a càrrec (menors d'edat o majors incapacitats judicialment).
+CAT_060,17,CAT,"En aquest cas, només un dels progenitors pot presentar la declaració conjunta amb els fills."
+CAT_060,18,CAT,•	Quan s’entén que el contribuent té la residència fiscal a Espanya?
+CAT_060,19,CAT,•	a) El contribuent roman més de 183 dies durant l’any natural (de l’1 de gener al 31 de desembre) en territori espanyol.
+CAT_060,20,CAT,•	b) Radica a Espanya el seu nucli principal o la base de les seves activitats o interès econòmic (denominat també centre d’interessos vitals).
+CAT_060,21,CAT,"•	c) Quan resideixi habitualment a Espanya el seu cònjuge no separat legalment i els fills menors d’edat que depenguin d’aquest, tret de prova en contrari."
+CAT_060,22,CAT,"•	
+Què grava l’IRPF?"
+CAT_060,23,CAT,"•	L’objecte de l’IRPF són els rendiments del contribuent i els guanys i pèrdues patrimonials, amb independència del lloc on s’hagin produït i de quina sigui la residència del pagador."
+CAT_060,24,CAT,•	Una de les peculiaritats d’aquest impost consisteix en la tributació per determinades imputacions de renda.
+CAT_060,25,CAT,"Aquests són uns ingressos presumptes per la Hisenda, és a dir, l’Administració els pressuposa."
+CAT_060,26,CAT,"Un exemple es dona quan, a part del seu habitatge principal, una persona té un altre habitatge de propietat que no està llogat."
+CAT_060,27,CAT,"•	En general, els rendiments subjectes a tributació en l’IRPF són:
+•	Els rendiments del treball, com per exemple el salari que percep un treballador o la pensió."
+CAT_060,28,CAT,"•	Els rendiments d’activitats econòmiques, com per exemple els rendiments obtinguts per un treballador autònom que té un negoci."
+CAT_060,29,CAT,"•	Els rendiments del capital mobiliari, entre els quals es troben els interessos de comptes bancaris o de préstecs, els dividends d’accions, etc.
+•	Els rendiments del capital immobiliari, com per exemple els ingressos percebuts pel lloguer d’un immoble de la teva propietat."
+CAT_060,30,CAT,"•	Les imputacions de rendes, com per exemple el rendiment presumpte que Hisenda t’imputa en funció del valor cadastral d’un immoble de la teva propietat que no has llogat."
+CAT_060,31,CAT,"•	Guanys i pèrdues patrimonials, com el guany o la pèrdua obtinguts en la venda d’unes accions o d’un immoble."
+CAT_060,32,CAT,•	Quant es paga?
+CAT_060,33,CAT,"•	L’IRPF és un impost progressiu, la qual cosa significa que el seu tipus de gravamen augmenta a mesura que ho fan els ingressos, guanys i imputacions de renda."
+CAT_060,34,CAT,"•	Per determinar quant ha de pagar cada contribuent per IRPF es determina una quantitat que s’anomena base liquidable, en la qual estan inclosos els ingressos nets amb les corresponents deduccions i reduccions fiscals segons les circumstàncies personals i familiars."
+CAT_060,35,CAT,"•	Sobre la base liquidable s’hi apliquen uns percentatges o tipus impositius de l’IRPF que representen una escala progressiva, ja que es pretén que les persones que més guanyin siguin les que paguin més."
+CAT_060,36,CAT,"•	Els tipus impositius estatals (gravamen estatal) de l’IRPF són iguals per a tot Espanya, però a aquests tipus impositius cal sumar també els tipus impositius autonòmics (gravamen autonòmic)."
+CAT_060,37,CAT,"Per això, si vius a Barcelona, has de mirar els corresponents tipus impositius vigents a Catalunya."
+CAT_060,38,CAT,"•	El tipus marginal és el més elevat que pugui pagar un contribuent, és a dir, el tram més alt de percentatge que s’aplica a la seva base liquidable."
+CAT_060,39,CAT,"En el cas de Catalunya, l’últim tipus marginal ha estat del 50% (24,50% gravamen estatal + 25,50% gravamen autonòmic)."
+CAT_060,40,CAT,"•	D’altra banda, has de saber que, amb caràcter general, o sigui independentment de la comunitat autònoma on resideixes, els rendiments del capital mobiliari i els guanys patrimonials estan subjectes a tipus impositius que oscil·len entre el 19% i el 28%."
+CAT_060,41,CAT,•	Què puc deducir de la meva renda?
+CAT_060,42,CAT,•	Les deduccions permeses també varien segons si es tracta d’una deducció general o autonòmica.
+CAT_060,43,CAT,"•	Així, actualment entre les deduccions generals pots trobar la deducció per inversió en empreses de nova o recent creació, deduccions per donatius i altres aportacions, deduccions per obres de millora d’eficiència energètica en habitatges, etc.
+•	Si us plau, no oblidis que les deduccions autonòmiques varien segons la comunitat autònoma."
+CAT_060,44,CAT,"Així, actualment a Catalunya es permeten, entre altres, les deduccions per naixement o adopció fills, per viudetat, per rehabilitació de l’habitatge habitual, per certs donatius, per inversió per un àngel inversor per a l’adquisició d’accions o participacions d’entitats noves o de recent creació, etc.
+•	Finalment, recorda que, si com a nouvingut vius de lloguer, no podràs deduir aquestes mensualitats."
+CAT_060,45,CAT,"D’una altra manera, si recentment vas comprar un immoble i hi vius, tampoc no podràs desgravar la hipoteca."
+CAT_060,46,CAT,"•	
+Quan es presenta la declaració de l’IRPF?"
+CAT_060,47,CAT,"•	Habitualment, la declaració de l’IRPF s’ha de presentar fins al dia 30 de juny de l’any següent (o sigui, les rendes del 2023 es declaren i l’impost es paga fins al 30.06.2024)."
+CAT_060,48,CAT,"Normalment, la presentació s’habilita des de finals de la primera setmana del mes d’abril, per tant, disposes de gairebé tres mesos."
+CAT_060,49,CAT,"De totes maneres, és convenient revisar el calendari fiscal cada any."
+CAT_060,50,CAT,"•	En el cas de presentació de la declaració de l’IRPF de forma voluntària (sense rebre abans un requeriment per part de l’Agència Tributària) fora de termini, hauràs de pagar més."
+CAT_060,51,CAT,"Bé un recàrrec o bé interessos de demora per pagament retardat, depenent del temps transcorregut des de la data límit (30 de juny) i la data en què efectues el pagament de l’impost."
+CAT_060,52,CAT,Es pot presentar la declaració de l’IRPF de manera conjunta?
+CAT_060,53,CAT,La declaració de l’IRPF se sol presentar de manera individual.
+CAT_060,54,CAT,"No obstant això, les persones que formen part d’una unitat familiar poden presentar-la conjuntament."
+CAT_060,55,CAT,"A grans trets, poden presentar la declaració conjunta:
+•	Les persones casades, siguin sense fills/es o amb fills/es (menors d’edat o majors d’edat incapacitats judicialment)."
+CAT_060,56,CAT,•	Les persones separades legalment i les parelles de fet amb fills/es a càrrec (menors d’edat o majors d’edat incapacitats judicialment).
+CAT_060,57,CAT,"En aquest cas, només un dels progenitors pot presentar la declaració conjunta amb els fills."
+CAT_060,58,CAT,"És important destacar que hi ha una reducció de la base imposable de l’impost per a les declaracions conjuntes de famílies integrades pels dos cònjuges no separats legalment i, si n’hi ha, pels fills/es menors que convisquin amb ells."
+CAT_060,59,CAT,"Impost sobre la renda de no residents (IRNR)
+L’impost sobre la renda de no residents IRNR és un tribut de caràcter directe que grava la renda obtinguda en territori espanyol per les persones físiques i entitats no residents a Espanya."
+CAT_060,60,CAT,"En cas de béns immobles que no generen rendes com a tal (per exemple, perquè no estan llogats), també s’aplica aquest impost, com explicarem més endavant."
+CAT_060,61,CAT,"Règim fiscal especial aplicable a treballadors desplaçats a territori espanyol (Llei Beckham) 
+Existeix un règim especial per a persones treballadores desplaçades al territori espanyol que es va concebre amb la finalitat d’atreure persones altament qualificades per millorar la internacionalització i la competitivitat de les empreses locals."
+CAT_060,62,CAT,"Aquest règim es coneix popularment com a Llei Beckham perquè inicialment alguns clubs de futbol el van utilitzar per fitxar jugadors, i el futbolista anglès David Beckham va ser un dels primers a beneficiar-se d’aquest règim especial."
+CAT_060,63,CAT,"Malgrat això, actualment la llei exclou els esportistes professionals del règim especial."
+CAT_060,64,CAT,"Segons la regulació vigent, les persones físiques que adquireixin la residència fiscal a Espanya, com a conseqüència del seu desplaçament a territori espanyol, per motius laborals, poden optar per tributar per l’IRNR, malgrat ser de facto residents fiscals."
+CAT_060,65,CAT,"Gràcies als canvis legislatius recents, no només les persones altament qualificades poden beneficiar-se d’aquest règim, sinó també els nòmades digitals i les persones emprenedores i inversores en empreses acreditades com a emergents."
+CAT_060,66,CAT,Quin és el temps d’aplicació de la Llei Beckham?
+CAT_060,67,CAT,La Llei Beckham és aplicable en el període impositiu en què s’efectuï el canvi de residència i durant els cinc períodes impositius següents (1+5).
+CAT_060,68,CAT,"Per exemple, si una persona treballadora es desplaça a Espanya el setembre de 2024, sol·licita l’aplicació d’aquest règim fiscal i l’hi concedeixen, aquesta llei s’aplicarà a partir de l’any 2025 (primer any en què obté la residència fiscal a Espanya) i els 5 anys següents, és a dir, fins a l’any 2030."
+CAT_060,69,CAT,"No obstant això, si el desplaçament i l’inici de l’activitat laboral comencen, per exemple, el maig del 2024, la validesa d’aquest règim fiscal especial cobrirà el període dels anys 2024-2029, en considerar-se el 2024 el primer any de la residència fiscal a Espanya."
+CAT_060,70,CAT,Quins són els requisits per optar a la Llei Beckham?
+CAT_060,71,CAT,"Per optar a aquest règim especial, s’han de complir les condicions següents:
+a) No haver estat resident a Espanya durant els cinc períodes impositius anteriors a aquell en el qual es produeixi el desplaçament."
+CAT_060,72,CAT,"b) Que el desplaçament es produeixi com a conseqüència d’alguna de les circumstàncies següents:
+•	Un contracte de treball (s’exceptuen esportistes professionals) amb una empresa espanyola o quan el desplaçament sigui ordenat per l’ocupador i existeixi una carta de desplaçament d’aquest."
+CAT_060,73,CAT,•	L’adquisició de la condició d’administrador en una societat espanyola.
+CAT_060,74,CAT,(La limitació anteriorment vigent respecte a la tinença de participacions inferiors al 25% en aquesta empresa actualment es manté només per a empreses patrimonials).
+CAT_060,75,CAT,•	Obtenció de la residència mitjançant el visat de teletreball internacional (nòmada digital).
+CAT_060,76,CAT,Important: aquest visat no és aplicable per a les persones amb ciutadania europea.
+CAT_060,77,CAT,•	Realització d’una activitat emprenedora segons els termes de la Llei 14/2013.
+CAT_060,78,CAT,•	Prestació de serveis professionals altament qualificats a empreses emergents innovadores o realització de formació i investigació en innovació.
+CAT_060,79,CAT,c) Que no s’obtinguin rendes que es qualificarien com a obtingudes mitjançant un establiment permanent a Espanya.
+CAT_060,80,CAT,És molt important destacar que hi ha un termini per optar per aquest règim especial.
+CAT_060,81,CAT,"Si vols acollir-t’hi, hauràs de sol·licitar-lo a l’Agència Tributària com a màxim en els sis mesos següents des de la data de l’alta a la Seguretat Social a Espanya o en la documentació que et permeti, si és el teu cas, el manteniment de la legislació de Seguretat Social al país de residència anterior al desplaçament."
+CAT_060,82,CAT,"Si no ho fas durant aquest termini, perdràs aquesta oportunitat avantatjosa."
+CAT_060,83,CAT,"És crucial tenir en compte que hi ha certs requisits i excepcions pel que fa a les condicions que motivin el desplaçament a Espanya; per tant, és important revisar la teva situació particular amb un advocat o advocada especialista."
+CAT_060,84,CAT,"Finalment, cal destacar una altra novetat introduïda recentment quant a l’aplicabilitat a familiars de persones titulars d’aquest règim fiscal."
+CAT_060,85,CAT,"A partir d’ara també podran acollir-se al règim:
+•	el cònjuge de la persona acollida en aquest règim (o, en el supòsit d’inexistència de vincle matrimonial, el progenitor dels fills), sempre que compleixin unes determinades condicions; i
+•	els seus fills menors de 25 anys o de qualsevol edat en cas de discapacitat."
+CAT_060,86,CAT,Quins són els principals incentius de la Llei Beckham?
+CAT_060,87,CAT,"En el marc de la Llei Beckham, la persona contribuent tributa exclusivament per les rendes obtingudes en territori espanyol, a excepció dels rendiments del treball, els quals queden subjectes a tributació en la seva totalitat amb independència del lloc on s’hagin produït i de quina sigui la residència del pagador."
+CAT_060,88,CAT,"Dit d’una altra manera, malgrat ser resident fiscal a Espanya de facto, la persona té el tractament fiscal aplicable a no residents fiscals."
+CAT_060,89,CAT,"El tipus impositiu aplicable és fix (a diferència de l’IRPF), del 24% fins a 600.000 euros i del 47% per a l’excés."
+CAT_060,90,CAT,"No obstant això, els dividends, interessos i guanys de capital tributaran a un impositiu entre el 19% i el 28%."
+CAT_060,91,CAT,"És important tenir en compte que, encara que obtens un estalvi fiscal molt elevat, certes despeses i conceptes no són deduïbles (a diferència de l'IRPF aplicable als residents fiscals)."
+CAT_060,92,CAT,"Finalment, és interessant destacar dos avantatges addicionals per a les persones contribuents a les quals sigui aplicable la Llei Beckham:
+•	Estan subjectes a l’impost sobre el patrimoni (IP) exclusivament pels béns o drets dels quals siguin titulars i que estiguin situats o es puguin exercir o s'hagin de complir a Espanya."
+CAT_060,93,CAT,"•	No tenen l’obligació, a diferència dels residents fiscals, d’informar dels seus béns i drets situats fora d’Espanya a través del Model 720/721."
+CAT_060,94,CAT,"Per a més informació
+Per acabar, volem recordar que tota aquesta informació és aplicable a les persones físiques (persones), i que les persones jurídiques (empreses) tenen el seu propi sistema de tributació."
+CAT_060,95,CAT,"Per tant, si vols crear una nova empresa a Barcelona o, per exemple, establir una sucursal d’una empresa estrangera, t’aconsellem consultar la informació corresponent amb especialistes."
+CAT_085,0,CAT,Quines garanties m'ofereix l'Ajuntament de Barcelona respecte a les meves dades personals?
+CAT_085,1,CAT,"Contingut
+Com a persones usuàries de les webs municipals, haureu de subministrar les dades personals imprescindibles per a la prestació del servei sol·licitat."
+CAT_085,2,CAT,"Les vostres dades personals seran tractades amb la finalitat de gestionar el tràmit sol·licitat, d’acord amb la legislació administrativa específica."
+CAT_085,3,CAT,"L'Ajuntament de Barcelona garanteix que les dades personals dels ciutadans seran:
+Tractades de manera lícita i transparent
+Tots els tractaments de l’Ajuntament de Barcelona estan legitimats: per una base legal, en el compliment d’una obligació o també pel consentiment de la persona interessada."
+CAT_085,4,CAT,Oferint informació específica en cada tractament i difonent aquesta política de privacitat general es compleix el principi de transparència.
+CAT_085,5,CAT,"Adequades, pertinents i limitades
+Cada dada personal recollida per l'Ajuntament de Barcelona contribueix a la consecució de les finalitats del tractament (gestionar el tràmit, enviar notificacions, etcètera) i només seran recollides les que siguin necessàries per al compliment d’aquesta finalitat."
+CAT_085,6,CAT,"Aquestes dades de caràcter personal s’integren en el corresponent registre d’activitats de tractament de l’Ajuntament de Barcelona i seran tractades amb la finalitat específica de cada tractament, tal com estableix la regulació establerta pel Reglament (UE) 2016/679 del Parlament Europeu i del Consell sobre protecció de dades de caràcter personal."
+CAT_085,7,CAT,"Conservades durant un període no superior al necessari
+L'Ajuntament de Barcelona només conserva les dades personals el temps necessari per complir les obligacions legals."
+CAT_085,8,CAT,"Recollides amb finalitats determinades
+L'Ajuntament no tracta les dades personals per a qualsevol altra finalitat que la que dona origen a la seva recollida, i sempre segons la informació que es facilita prèviament al/la ciutadà/ana."
+CAT_085,9,CAT,"Exactes i actualitzades
+L'Ajuntament de Barcelona posa a disposició de la ciutadania mitjans que permeten rectificar les seves dades personals (per exemple, un nom mal escrit) o actualitzar-les (per exemple, l’adreça postal), sens perjudici del dret de rectificació reconegut a la normativa de protecció de dades."
+CAT_085,10,CAT,"Tractades de manera segura
+L’Ajuntament de Barcelona aplica als tractaments de dades de caràcter personal les mesures de seguretat requerides per la normativa legal, especialment per l’Esquema Nacional de Seguretat, tot tenint en compte la tipologia de les dades, el context i els riscos previsibles."
+CAT_085,11,CAT,"L’Ajuntament de Barcelona garanteix la confidencialitat en el tractament de les dades de caràcter personal així com la implantació de les mesures, d’ordre tècnic i organitzatiu, que en garanteixin la seguretat d’acord amb el Reglament (UE) 2016/679 del Parlament Europeu i la legislació vigent en matèria de protecció de dades"
+CAT_090,0,CAT,"Com actua
+La Sindicatura de Greuges de Barcelona actua per sol·licitud de qualsevol persona física o jurídica que presenti una queixa sobre una actuació de l’administració pública local."
+CAT_090,1,CAT,"També pot fer-ho d’ofici, és a dir, per iniciativa pròpia, quan consideri que cal emprendre alguna investigació en defensa dels drets de la ciutadania."
+CAT_090,2,CAT,"Quan es presenta una queixa o reclamació, la Sindicatura avalua si aquesta compleix els requisits per ser admesa a tràmit o no, i en cas positiu, estudia el cas, demanant la informació necessària als organismes municipals adients."
+CAT_090,3,CAT,"Un cop completat l’estudi del cas, elabora una resolució al respecte que publica i comunica a les parts."
+CAT_090,4,CAT,"Les seves actuacions són gratuïtes i no cal l’assistència d’advocat ni procurador, i les queixes que se li formulen no afecten els terminis previstos per a l’exercici d’accions en via administrativa o jurisdiccional."
+CAT_090,5,CAT,"La Sindicatura de Greuges supervisa l’activitat de l’administració municipal, formulant advertiments, recomanacions i suggeriments que facilitin la resolució dels problemes objecte de queixa, amb l’objectiu de millorar el funcionament de l’administració municipal."
+CAT_090,6,CAT,"Igualment, pot proposar fórmules de conciliació o d’acord per facilitar una resolució ràpida i satisfactòria de la queixa."
+CAT_090,7,CAT,"La Sindicatura exerceix les seves funcions amb independència i imparcialitat i, per tant, no rep instruccions de cap autoritat o càrrec municipal."
+CAT_090,8,CAT,"Per desenvolupar les seves funcions, compta amb la col•laboració de tots els òrgans municipals."
+CAT_090,10,CAT,La Sindicatura de Greuges de Barcelona pot intervenir per sol·licitud dels ciutadans i ciutadanes o dels col·lectius que manifestin queixes o problemes amb l’administració municipal o amb un servei en què l’Ajuntament tingui participació.
+CAT_090,11,CAT,"Pot intervenir també, per iniciativa pròpia, quan entengui que l’Administració municipal pot haver vulnerat, directament o indirectament, els drets constitucionals de les persones."
+CAT_090,12,CAT,"La Sindicatura no pot intervenir en els casos següents:
+•	Si es tracta d’un problema entre particulars que no implica de cap manera l’administració municipal."
+CAT_090,13,CAT,•	Si el motiu de la queixa està pendent d’una resolució judicial.
+CAT_090,14,CAT,"•	Si la queixa és anònima, denota mala fe o no té prou fonament."
+CAT_090,15,CAT,"Quan no pot intervenir, la Sindicatura de Greuges de Barcelona orienta i assessora sobre les gestions que es poden fer."
+CAT_094,0,CAT,"Sobre el projecte
+El Mecanisme per a l’Energia Sostenible de Barcelona (MES Barcelona), un instrument per acompanyar i accelerar la transició energètica de la ciutat al costat d’inversors privats."
+CAT_094,1,CAT,Amb aquest instrument es pretén invertir en la instal·lació de plaques fotovoltaiques i rehabilitació energètica a la ciutat.
+CAT_094,2,CAT,És el nou pla de transformació energètica de l’Ajuntament que et permet instal·lar plaques fotovoltaiques al teu edifici mitjançant una solució finançada amb garantia dels materials.
+CAT_094,3,CAT,"Els finançadors de la fotovoltaica vendran l’energia als propietaris de l’edifici, i en acabar el contracte de venda d’energia l’actiu passarà a pertànyer als propietaris a cost zero."
+CAT_094,4,CAT,"Objectius
+El mecanisme busca prioritàriament potenciar la generació energètica fotovoltaica a la ciutat a partir de la iniciativa privada i s’enfoca a projectes que considerin tant grans espais (cobertes de naus industrials, logístiques, edificis d’oficines o altres espais de ciutat), com terrats i teulades d’edificis residencials, amb l’agrupació de diferents edificis residencials que, sumats, puguin fer el conjunt de la inversió manejable alhora que escalable."
+CAT_094,5,CAT,"Complementàriament, es preveu també invertir en projectes de rehabilitació energètica d’edificis que tinguin un consum energètic alt, com poden ser hospitals, hotels i centres esportius, entre d’altres."
+CAT_094,6,CAT,"Finalment, el MES Barcelona també vol invertir en projectes que impulsin la innovació en el sector econòmic de les energies renovables."
+CAT_094,7,CAT,Com funciona?
+CAT_094,8,CAT,El MES Barcelona és un mecanisme d’inversió financera per part de l’Ajuntament de Barcelona.
+CAT_094,9,CAT,"Per tant, aquests 50 M€ municipals es destinen a projectes d’inversió presentats per inversors homologats per l’Ajuntament."
+CAT_094,10,CAT,Aquests inversors homologats són un conjunt d’inversors que tenen experiència a invertir en fotovoltaiques i en rehabilitació energètica.
+CAT_094,11,CAT,"A l’hora de seleccionar inversions, l’Ajuntament exigirà que es focalitzin en la instal·lació de plaques fotovoltaiques o la rehabilitació energètica en què el model de negoci no requereixi un cofinançament per part dels propietaris dels edificis."
+CAT_094,12,CAT,Els inversors assumiran el 100% de la inversió i la recuperaran gràcies a l’energia excedent o els estalvis energètics generats per les operacions finançades.
+CAT_094,13,CAT,"En el cas d’inversors especialitzats en fotovoltaica, entre altres criteris, es garantirà que aquests fons diversifiquin la instal·lació de fotovoltaiques a diferents tipus d’edificis (residencial, terciari, industrial), fomentin l’autoconsum, les comunitats energètiques, la instal·lació de punts de càrrega per a vehicles elèctrics, etc., a la vegada que els inversors privats podran proposar millores en relació amb l’ús i l’aprofitament dels terrats comunitaris."
+CAT_094,14,CAT,"Homologació d'inversors
+Al març del 2021, la Comissió d’Economia i Hisenda de l’Ajuntament de Barcelona va aprovar les primeres empreses i grups empresarials que poden ser inversors homologats en el Mecanisme per l’Energia Sostenible de Barcelona (MES Barcelona)."
+CAT_094,15,CAT,"Aquesta diversitat d’empreses permet proposar estratègies d’inversió molt diversificades, que engloben diferents tipologies d’edificis i actuacions: edificacions residencials, oficines, naus industrials, aparcaments, infraestructures i edificis públics que apostin per implementar energies netes (plaques fotovoltaiques), la rehabilitació d’edificis i, fins i tot, la possibilitat de producció d’hidrogen verd."
+CAT_094,16,CAT,"Els procés d’homologació d’inversors resta obert; per tant, en les properes convocatòries podran incorporar-se noves empreses al projecte de MES Barcelona."
+CAT_094,17,CAT,"Inicialment n’hi ha previstes dues a l’any, a més de les noves convocatòries d’homologació que s’aniran produint."
+CAT_094,18,CAT,"Àmbits d’actuació
+La coinversió es concretarà en diferents grups de projectes dirigits a la millora energètica de la ciutat pel que fa a:
+•	Mesures actives: instal·lació de plaques fotovoltaiques i altres fonts netes d’energia."
+CAT_094,19,CAT,"•	Mesures passives: millora d’aïllaments, reposició de finestres i tancaments, millora de façanes, etc.
+•	Innovació tecnològica en energies netes."
+CAT_094,20,CAT,"Les mesures seran d’aplicació a tot el parc d’edificis de la ciutat:
+–      Edificis terciaris o de serveis d’entitats públiques i empreses privades (oficines, hotels, centres esportius, etc.) i industrials."
+CAT_094,21,CAT,"–      Edificis d’habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.)."
+CAT_094,22,CAT,–      Elements d’espai públic.
+CAT_094,23,CAT,–      Punts de recàrrega (inclosos pàrquings públics i privats).
+CAT_094,24,CAT,–      Empreses i emprenedors dedicats a projectes innovadors per a la millora energètica.
+CAT_094,25,CAT,•	Altres directament relacionats.
+CAT_094,26,CAT,Es preveu que l’increment de potència fotovoltaica instal·lada i la rehabilitació d’edificis permeti disminuir el consum energètic de la ciutat i incrementar la producció local.
+CAT_094,27,CAT,Es calcula que potencialment el mecanisme permetrà incrementar en un 66% la generació renovable local actual.
+CAT_094,28,CAT,"Beneficis del programa
+– Garantir inversió a Barcelona."
+CAT_094,29,CAT,A Espanya estan apareixent diferents iniciatives (ofertes d’operadors energètics i propostes de fons d’inversió) per fer créixer el volum d’instal·lació de fotovoltaica.
+CAT_094,30,CAT,"El Mecanisme per a l’Energia Sostenible pot ser un element que garanteixi que part d’aquesta inversió es faci a Barcelona malgrat les dificultats que, a priori, pot suposar invertir en fotovoltaica en una ciutat compacta com Barcelona."
+CAT_094,31,CAT,– Garantir un model d’inversió que aporti un valor afegit als ciutadans.
+CAT_094,32,CAT,"Això es basa en un model d’inversió on els actius, les plaques fotovoltaiques, siguin al final propietat dels ciutadans, propietaris dels edificis."
+CAT_094,33,CAT,"Però el valor afegit també es basa a aprofitar més els terrats, no només des d’un punt de vista solar, sinó del mateix espai, que es pot reconvertir en un espai d’ús social o terrat verd."
+CAT_094,34,CAT,"– Garantir un model d’inversió que sigui atractiu per a tots els ciutadans de Barcelona, amb independència de la seva capacitat econòmica."
+CAT_094,35,CAT,"En el model de negoci previst, la inversió no es recupera mitjançant el pagament per part dels propietaris dels habitatges, sinó gràcies als estalvis generats per un consum més sostenible."
+CAT_094,36,CAT,"Per tant, l’impuls del Mecanisme per a l’Energia Sostenible garanteix que aquesta inversió es pugui estendre a tots els barris de Barcelona."
+CAT_094,37,CAT,"Fes la teva sol·licitud
+Sol·licita la valoració del teu edifici
+Per participar-hi, pots enviar-nos una sol·licitud d’alta."
+CAT_094,38,CAT,"Un cop rebem la teva petició, la farem arribar a les empreses homologades, les quals es posaran en contacte amb tu per tal d’estudiar la viabilitat del projecte i definir-ne les condicions."
+CAT_094,39,CAT,"Quan hagis completat la sol·licitud, rebràs un codi de sol·licitud i les dades de contacte de les empreses a les quals l’hem fet arribar."
+CAT_094,40,CAT,"Per qualsevol consulta o seguiment del projecte, accedeix a l’espai de seguiment."

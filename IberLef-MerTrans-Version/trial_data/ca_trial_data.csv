@@ -1,0 +1,26 @@
+document_id,original_sentence_id,original_text,simplified_text
+CAT_022,0,"Començar a treballar
+Si vols realitzar una activitat laboral a Espanya, ja sigui per compte propi o per compte d’altri, has d’obtenir el número de la Seguretat Social.","Començar a treballar
+Si voleu treballar a Espanya, necessiteu un número de la Seguretat Social.
+Això és necessari tant si treballeu per a una empresa o persona
+o pel vostre compte."
+CAT_022,1,"Aquest número t’identificarà en les teves relacions amb la Seguretat Social, que és el sistema públic de protecció davant de situacions de malaltia, invalidesa, atur, vellesa, accidents de treball, maternitat o pèrdua del sosteniment de la família.","Què és el número de la Seguretat Social?
+És un número personal que us identifica en les vostres relacions amb la Seguretat social.
+La Seguretat Social és un sistema públic que assegura a les persones 
+una sèrie de prestacions mínimes per aquestes situacions:
+- rebre ajuda si esteu malalts,
+- cobrar l’atur si us quedeu sense feina,
+- tenir protecció si teniu un accident laboral,
+- cobrar una pensió quan us jubileu,
+- i rebre ajudes per maternitat o altres situacions."
+CAT_022,2,"L’obtenció del teu número de la Seguretat Social és un pas previ i necessari per poder sol·licitar l’alta a la Seguretat Social, que és el que realment permet l’inici d’una activitat laboral.","Per poder començar a treballar heu de demanar l'alta a la Seguretat Social.
+Per fer l'alta necessitareu el vostre número de la Seguretat Social."
+CAT_022,3,Donar-se d’alta a la Seguretat Social és obligatori per començar una activitat laboral.,Donar-se d’alta a la Seguretat Social és obligatori per començar una activitat laboral.
+CAT_022,4,"•	Si has de treballar per compte d’altri, és l’empresa o la persona ocupadora la que ha de tramitar la teva alta en el règim general de la Seguretat Social.","Qui fa l’alta a la Seguretat Social?
+Si treballeu per a una empresa o per una altra persona,
+l’empresa és la que ha de fer l'alta a la Seguretat Social."
+CAT_022,5,"•	Si has de treballar per compte propi, ets tu qui ha de sol·licitar l’alta en el règim especial de treballadors autònoms (RETA) de la Seguretat Social.","Si treballeu pel votre compte,
+vosaltres mateixos haureu de fer l’alta al RETA.
+El RETA és el sistema especial dels autònoms de la Seguretat Social."
+CAT_022,6,"A més, en cas que treballis pel teu compte, t’hauràs d’inscriure o donar-te d’alta al cens d’empresaris, professionals i retenidors de l’Agència Tributària.","Si treballeu pel vostre compte, també us de donar d'alta
+al cens d’empresaris i professionals de l’Agència Tributària."
