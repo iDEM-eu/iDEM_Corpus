@@ -14,47 +14,48 @@ The sizes of the language-specific parts in sentences and words are as follows:
 
 
 <table>
-    <thead>
-        <tr>
-            <th>Language</th>
-            <th colspan="2"> Sentences</th>
-            <th colspan="2"> Sentences</th>
-            <th colspan="2"> Words per Sentence Segement </th>
-        </tr>
-        <tr>
-            <th></th>
-            <th>  Orig      </th>
-            <th> Simp  </th>
-            <th> Orig  </th>
-            <th> Simp  </th>
-            <th> Orig  </th>
-            <th>  Simp </th>
-        </tr>
-            <tr>
-            Spanish  </th>
-            <th>  354       </th>
-            <th> 1290  </th>
-            <th> 11665 </th>
-            <th>10883  </th>
-            <th> 32.95 </th>
-            <th>  8.44 </tr>
-         <tr>
-            Catalan  </th>
-            <th>  380       </th>
-            <th>  405  </th>
-            <th> 11570 </th>
-            <th> 14279 </th>
-            <th> 41.32 </th>
-            <th> 35.26 </tr>
-         <tr>
-            Italian  </th>
-            <th>  325       </th>
-            <th>  718  </th>
-            <th> 10398 </th>
-            <th> 12230 </th>
-            <th> 31.99 </th>
-            <th> 17.03 </tr>
-         <tr>
+    <tr>
+        <th>Language</th>
+        <th colspan="2"> Sentences</th>
+        <th colspan="2"> Sentences</th>
+        <th colspan="2"> Words per Sentence Segement </th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>  Orig      </th>
+        <th> Simp  </th>
+        <th> Orig  </th>
+        <th> Simp  </th>
+        <th> Orig  </th>
+        <th>  Simp </th>
+    </tr>
+    <tr>
+        <th> Spanish </th>
+        <th>  354  </th>
+        <th> 1290  </th>
+        <th> 11665 </th>
+        <th>10883  </th>
+        <th> 32.95 </th>
+        <th>  8.44 </th>
+    </tr>
+    <tr> 
+        <th> Catalan  </th>
+        <th>  380 </th>
+        <th>  405  </th>
+        <th> 11570 </th>
+        <th> 14279 </th>
+        <th> 41.32 </th>
+        <th> 35.26 </tr>
+    </tr>
+    <tr>
+        <th> Italian </th>
+        <th>  325  </th>
+        <th>  718  </th>
+        <th> 10398 </th>
+        <th> 12230 </th>
+        <th> 31.99 </th>
+        <th> 17.03 </th>
+    </tr>
 </table>
 The corpus contains texts from the domain of public deliberation from different sources, like informative texts from institutions, political articles, and news articles, among others. In terms of content, it covers social policy, justice and services, health policy, accessibility, governance and similar topics.
 
