@@ -2,7 +2,7 @@
 
 The iDEM Corpus was created as a part of the [iDEM project](https://idemproject.eu/). 
 It is a corpus of high quality text simplifications which covers
-Italian, Catalan, and Spanish. 
+Italian, Catalan, and Spanish. The corpus was presented and described in [A Multilingual Human Annotated Corpus of Original and Easy-to-Read Texts to Support Access to Democratic Participatory Processes](https://aclanthology.org/2026.lrec-1.87/) (Bott et al., LREC 2026)
 
 ## The corpus contains:
 * Original Texts
