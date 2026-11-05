@@ -1,0 +1,93 @@
+
+======================================================================
+1. Descriptive statistics
+======================================================================
+14 documents · 383 alignments · 408 simplified entries · 1379 lines
+             mean    std   min    50%     max
+n_lines      3.60   2.35  1.00   3.00   17.00
+words_orig  26.30  14.28  2.00  24.00  113.00
+words_simp  31.92  18.80  2.00  28.00  127.00
+growth       1.27   0.59  0.55   1.11    5.85
+
+Words per simplified line: mean 8.9, median 9
+
+======================================================================
+2. Original vs simplified
+======================================================================
+                              original  simplified
+total words                   10073.00    12227.00
+mean word length (chars)          5.04        4.64
+mean words per sentence/line     26.30        8.87
+
+The simplified text is 121% as long as the original.
+Alignments with an added gloss or explanation (codes 8, 00): 24
+  growth with gloss:    2.84   without: 1.16
+Share of original vocabulary kept: 52% (mean per alignment)
+Alignments returned unchanged: 18
+
+======================================================================
+3. Readability: LIX (lower = easier)
+======================================================================
+           mean    std    50%
+lix_orig  58.49  16.59  59.10
+lix_simp  42.78  11.48  41.67
+
+Simplified text is easier in 83% of alignments (mean change -15.7 points)
+Note: line breaks are not counted as sentence ends, so LIX reflects word length
+and punctuation-based sentence length, not the layout gain.
+
+======================================================================
+4. Comparison between translators
+======================================================================
+              alignments  lines_per_sent  growth  lix_change  codes_per_al  glosses  flagged  words_per_line
+translator                                                                                                  
+translator_4         185            3.88    1.30      -16.82          1.63     0.05     0.23            8.99
+translator_5         198            3.34    1.23      -14.67          1.61     0.08     0.13            8.73
+Caution: each translator worked on different documents, so differences mix style and source text.
+
+======================================================================
+5. Criteria: most frequent pairs in the same alignment (excluding code 18)
+======================================================================
+   00 + 8    22x  lift 16.0   Explanation (added by the tr | Create a glossary or include
+   10 + 31   10x  lift  4.9   When listing elements relate | The most common punctuation 
+   10 + 23    6x  lift  1.4   When listing elements relate | Avoid abstract, technical, s
+   10 + 15    5x  lift  1.2   When listing elements relate | Prefer affirmative sentences
+   14 + 23    4x  lift  2.3   Prioritize simple syntax. Us | Avoid abstract, technical, s
+   22 + 31    4x  lift  1.7   Use only common, frequent ad | The most common punctuation 
+   22 + 33    4x  lift  1.9   Use only common, frequent ad | Write quantities and figures
+   22 + 36    4x  lift  2.0   Use only common, frequent ad | Avoid using percentages when
+Lift > 1: the two codes appear together more often than by chance.
+
+======================================================================
+6. Top criteria per translator (share of applied codes, %)
+======================================================================
+codes           18   22   10   23    15   00    8    0
+translator                                            
+translator_4  50.0  7.0  7.0  6.0   1.0  3.0  3.0  2.0
+translator_5  39.0  8.0  7.0  7.0  11.0  5.0  4.0  4.0
+
+======================================================================
+7. What drives the number of simplified lines? (Spearman correlation)
+======================================================================
+words_orig      0.73
+wordlen_orig    0.07
+lix_orig        0.55
+Name: n_lines, dtype: float64
+
+======================================================================
+8. Alignments with quality flags vs without
+======================================================================
+(only review flags; the [v1.3]/[v1.4] correction notes are left out)
+         words_orig  n_lines  growth  vocab_overlap
+flagged                                            
+False         25.39     3.49    1.25           0.53
+True          30.43     4.12    1.32           0.49
+
+Flag rate per document (top 5):
+document_id
+CAT_007_008    43%
+CAT_018_021    29%
+CAT_024_047    27%
+CAT_009_013    23%
+CAT_001        20%
+Name: flagged, dtype: str
