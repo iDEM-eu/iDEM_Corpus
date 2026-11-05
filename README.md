@@ -10,6 +10,8 @@ Italian, Catalan, and Spanish. The corpus was presented and described in [A Mult
 * Annotations on which simplification strategies have been applied when producing the simplified text (this part is still
 under revision and still not published here)
 
+# Please note that the corpora are NOT parallel. 
+
 The sizes of the language-specific parts in sentences and words are as follows:
 
 
